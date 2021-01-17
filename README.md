@@ -23,7 +23,7 @@ The original project shows the audit results based on candidate information. Thi
 -	Data Source: election_results.csv
 -	Software: Python 3.7.6, Visual Studio Code, 1.52.1
 
-## Electin Audit Results
+## Election Audit Results
 The table below presents the results of this election audit. The results show that:
 
 - There were 369,711 votes cast in the election.
