@@ -73,6 +73,6 @@ The current election results show County vote turnout and Candidate votes withou
 
 In this way, we can easily find out the county with the largest vote turnout and the winning candidate.
 
-To summarize, our script gives us the election audit results quickly and efficiently. With a few modifications, we believe that this script can be widely used in any election. 
+To summarize, our script gives us the election audit results quickly and efficiently. With a few modifications, we believe that this script can be widely used for any election. 
 
 
