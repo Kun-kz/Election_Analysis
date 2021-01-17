@@ -1,6 +1,6 @@
 # Election Analysis
 
-## Project Overview
+## Overview of Election Audit
 
 ### Original Project Overview
 A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election.
@@ -23,7 +23,7 @@ The original project shows the audit results based on candidate information. Thi
 -	Data Source: election_results.csv
 -	Software: Python 3.7.6, Visual Studio Code, 1.52.1
 
-## Results
+## Electin Audit Results
 The table below presents the results of this election audit. The results show that:
 
 - There were 369,711 votes cast in the election.
@@ -60,7 +60,7 @@ Table of Election Results:
 
 ![](analysis/Election_Results.png)
 
-## Summary
+## Election Audit Summary
 This script provides us the Colorado election audit results. It counts vote efficiently and makes the result easy to read. With some modifications, we believe that it can be widely used for any election.
 
 Our current script presents the results based on County and Candidate separately. One modification is that we can separate the votes based on candidates within each county. In this way, we can have detailed information about candidate’s votes within each county.
