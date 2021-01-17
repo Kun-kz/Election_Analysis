@@ -53,7 +53,8 @@ The table below presents the results of this election audit. The results show th
 - The winner of the selection was:
     - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
     
-Table:
+Table of Election Results:
+
 ![](analysis/Election_Results.png)
 
 ## Challenge Summary
