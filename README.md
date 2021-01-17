@@ -15,9 +15,9 @@ A Colorado Board of Elections employee has given us the following tasks to compl
 The original project shows the audit results based on candidate information. This challenge aims at adding the following information to the election analysis. By doing this, our project will have complete election results of each candidate and county. 
 
 1.	Get a complete list of counties in this election.
-2.	Calculate the voter turnout for each county
-3.	Calculate the percentage of votes from each county out of the total count
-4.	Determine the county with the largest turnout
+2.	Calculate the voter turnout for each county.
+3.	Calculate the percentage of votes from each county out of the total count.
+4.	Determine the county with the largest turnout.
 
 ## Resources
 -	Data Source: election_results.csv
@@ -28,7 +28,7 @@ The table below presents the results of this election audit. The results show th
 
 - There were 369,711 votes cast in the election.
 
-###Results based on County:
+### Results based on County:
 - The counties were:
    - Jefferson
    - Denver
