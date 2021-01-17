@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
 
@@ -23,7 +23,7 @@ The original project shows the audit results based on candidate information. Thi
 -	Data Source: election_results.csv
 -	Software: Python 3.7.6, Visual Studio Code, 1.52.1
 
-## Challenge Results
+## Results
 The table below presents the results of this election audit. The results show that:
 
 - There were 369,711 votes cast in the election.
@@ -33,10 +33,12 @@ The table below presents the results of this election audit. The results show th
    - Jefferson
    - Denver
    - Arapahoe
+   
  - The county results were:
    - Jefferson received 10.5% of the total votes and 38,855 number of votes.
    - Denver received 82.8% of the total votes and 306,055 number of votes.
    - Arapahoe received 6.7% of the total votes and 24,801 number of votes.
+   
  - The county with the largest vote turnout was:
    - County Denver, which received 82.8% of the total votes and 306,055 number of votes.
    
@@ -50,6 +52,7 @@ The table below presents the results of this election audit. The results show th
    - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
    - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
    - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+   
 - The winner of the selection was:
     - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
     
@@ -57,7 +60,7 @@ Table of Election Results:
 
 ![](analysis/Election_Results.png)
 
-## Challenge Summary
+## Summary
 This script provides us the Colorado election audit results. It counts vote efficiently and makes the result easy to read. With some modifications, we believe that it can be widely used for any election.
 
 Our current script presents the results based on County and Candidate separately. One modification is that we can separate the votes based on candidates within each county. In this way, we can have detailed information about candidate’s votes within each county.
